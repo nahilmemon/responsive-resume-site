@@ -1,0 +1,2 @@
+# Responsive Resume Site
+This project involved making a given fixed-width resume site responsive for different device widths. This project was completed as a part of the Front-end Nanodegree by Udacity.
